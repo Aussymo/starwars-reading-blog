@@ -1,0 +1,13 @@
+nav{
+    background-image: url("https://cdn.pixabay.com/photo/2016/07/29/19/15/darth-maul-1555343__340.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.trash{
+    float: right;
+}
+#topLeftLogo{
+    width : 200px;
+    border-radius: 10px;
+}
